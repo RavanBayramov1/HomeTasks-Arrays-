@@ -1,0 +1,14 @@
+C:\Users\99450\Desktop\MethodsTasks\MethodsTasks\obj\Debug\net8.0\MethodsTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99450\Desktop\MethodsTasks\MethodsTasks\obj\Debug\net8.0\MethodsTasks.AssemblyInfoInputs.cache
+C:\Users\99450\Desktop\MethodsTasks\MethodsTasks\obj\Debug\net8.0\MethodsTasks.AssemblyInfo.cs
+C:\Users\99450\Desktop\MethodsTasks\MethodsTasks\obj\Debug\net8.0\MethodsTasks.csproj.CoreCompileInputs.cache
+C:\Users\99450\Desktop\MethodsTasks\MethodsTasks\bin\Debug\net8.0\MethodsTasks.exe
+C:\Users\99450\Desktop\MethodsTasks\MethodsTasks\bin\Debug\net8.0\MethodsTasks.deps.json
+C:\Users\99450\Desktop\MethodsTasks\MethodsTasks\bin\Debug\net8.0\MethodsTasks.runtimeconfig.json
+C:\Users\99450\Desktop\MethodsTasks\MethodsTasks\bin\Debug\net8.0\MethodsTasks.dll
+C:\Users\99450\Desktop\MethodsTasks\MethodsTasks\bin\Debug\net8.0\MethodsTasks.pdb
+C:\Users\99450\Desktop\MethodsTasks\MethodsTasks\obj\Debug\net8.0\MethodsTasks.dll
+C:\Users\99450\Desktop\MethodsTasks\MethodsTasks\obj\Debug\net8.0\refint\MethodsTasks.dll
+C:\Users\99450\Desktop\MethodsTasks\MethodsTasks\obj\Debug\net8.0\MethodsTasks.pdb
+C:\Users\99450\Desktop\MethodsTasks\MethodsTasks\obj\Debug\net8.0\MethodsTasks.genruntimeconfig.cache
+C:\Users\99450\Desktop\MethodsTasks\MethodsTasks\obj\Debug\net8.0\ref\MethodsTasks.dll
