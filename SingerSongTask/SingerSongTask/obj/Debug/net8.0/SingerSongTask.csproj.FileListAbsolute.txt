@@ -1,0 +1,14 @@
+C:\Users\99450\Desktop\SingerSongTask\SingerSongTask\obj\Debug\net8.0\SingerSongTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99450\Desktop\SingerSongTask\SingerSongTask\obj\Debug\net8.0\SingerSongTask.AssemblyInfoInputs.cache
+C:\Users\99450\Desktop\SingerSongTask\SingerSongTask\obj\Debug\net8.0\SingerSongTask.AssemblyInfo.cs
+C:\Users\99450\Desktop\SingerSongTask\SingerSongTask\obj\Debug\net8.0\SingerSongTask.csproj.CoreCompileInputs.cache
+C:\Users\99450\Desktop\SingerSongTask\SingerSongTask\bin\Debug\net8.0\SingerSongTask.exe
+C:\Users\99450\Desktop\SingerSongTask\SingerSongTask\bin\Debug\net8.0\SingerSongTask.deps.json
+C:\Users\99450\Desktop\SingerSongTask\SingerSongTask\bin\Debug\net8.0\SingerSongTask.runtimeconfig.json
+C:\Users\99450\Desktop\SingerSongTask\SingerSongTask\bin\Debug\net8.0\SingerSongTask.dll
+C:\Users\99450\Desktop\SingerSongTask\SingerSongTask\bin\Debug\net8.0\SingerSongTask.pdb
+C:\Users\99450\Desktop\SingerSongTask\SingerSongTask\obj\Debug\net8.0\SingerSongTask.dll
+C:\Users\99450\Desktop\SingerSongTask\SingerSongTask\obj\Debug\net8.0\refint\SingerSongTask.dll
+C:\Users\99450\Desktop\SingerSongTask\SingerSongTask\obj\Debug\net8.0\SingerSongTask.pdb
+C:\Users\99450\Desktop\SingerSongTask\SingerSongTask\obj\Debug\net8.0\SingerSongTask.genruntimeconfig.cache
+C:\Users\99450\Desktop\SingerSongTask\SingerSongTask\obj\Debug\net8.0\ref\SingerSongTask.dll
