@@ -1,0 +1,14 @@
+C:\Users\99450\Desktop\MeetingProject\MeetingProject\obj\Debug\net8.0\MeetingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99450\Desktop\MeetingProject\MeetingProject\obj\Debug\net8.0\MeetingProject.AssemblyInfoInputs.cache
+C:\Users\99450\Desktop\MeetingProject\MeetingProject\obj\Debug\net8.0\MeetingProject.AssemblyInfo.cs
+C:\Users\99450\Desktop\MeetingProject\MeetingProject\obj\Debug\net8.0\MeetingProject.csproj.CoreCompileInputs.cache
+C:\Users\99450\Desktop\MeetingProject\MeetingProject\bin\Debug\net8.0\MeetingProject.exe
+C:\Users\99450\Desktop\MeetingProject\MeetingProject\bin\Debug\net8.0\MeetingProject.deps.json
+C:\Users\99450\Desktop\MeetingProject\MeetingProject\bin\Debug\net8.0\MeetingProject.runtimeconfig.json
+C:\Users\99450\Desktop\MeetingProject\MeetingProject\bin\Debug\net8.0\MeetingProject.dll
+C:\Users\99450\Desktop\MeetingProject\MeetingProject\bin\Debug\net8.0\MeetingProject.pdb
+C:\Users\99450\Desktop\MeetingProject\MeetingProject\obj\Debug\net8.0\MeetingProject.dll
+C:\Users\99450\Desktop\MeetingProject\MeetingProject\obj\Debug\net8.0\refint\MeetingProject.dll
+C:\Users\99450\Desktop\MeetingProject\MeetingProject\obj\Debug\net8.0\MeetingProject.pdb
+C:\Users\99450\Desktop\MeetingProject\MeetingProject\obj\Debug\net8.0\MeetingProject.genruntimeconfig.cache
+C:\Users\99450\Desktop\MeetingProject\MeetingProject\obj\Debug\net8.0\ref\MeetingProject.dll
