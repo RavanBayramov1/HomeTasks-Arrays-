@@ -1,0 +1,14 @@
+C:\Users\99450\Desktop\GenericProject\GenericProject\obj\Debug\net8.0\GenericProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99450\Desktop\GenericProject\GenericProject\obj\Debug\net8.0\GenericProject.AssemblyInfoInputs.cache
+C:\Users\99450\Desktop\GenericProject\GenericProject\obj\Debug\net8.0\GenericProject.AssemblyInfo.cs
+C:\Users\99450\Desktop\GenericProject\GenericProject\obj\Debug\net8.0\GenericProject.csproj.CoreCompileInputs.cache
+C:\Users\99450\Desktop\GenericProject\GenericProject\bin\Debug\net8.0\GenericProject.exe
+C:\Users\99450\Desktop\GenericProject\GenericProject\bin\Debug\net8.0\GenericProject.deps.json
+C:\Users\99450\Desktop\GenericProject\GenericProject\bin\Debug\net8.0\GenericProject.runtimeconfig.json
+C:\Users\99450\Desktop\GenericProject\GenericProject\bin\Debug\net8.0\GenericProject.dll
+C:\Users\99450\Desktop\GenericProject\GenericProject\bin\Debug\net8.0\GenericProject.pdb
+C:\Users\99450\Desktop\GenericProject\GenericProject\obj\Debug\net8.0\GenericProject.dll
+C:\Users\99450\Desktop\GenericProject\GenericProject\obj\Debug\net8.0\refint\GenericProject.dll
+C:\Users\99450\Desktop\GenericProject\GenericProject\obj\Debug\net8.0\GenericProject.pdb
+C:\Users\99450\Desktop\GenericProject\GenericProject\obj\Debug\net8.0\GenericProject.genruntimeconfig.cache
+C:\Users\99450\Desktop\GenericProject\GenericProject\obj\Debug\net8.0\ref\GenericProject.dll

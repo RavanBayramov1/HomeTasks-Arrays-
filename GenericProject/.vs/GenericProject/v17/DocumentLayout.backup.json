@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\99450\\Desktop\\GenericProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C947D16C-B528-4EC7-B689-280E04CF717A}|GenericProject\\GenericProject.csproj|c:\\users\\99450\\desktop\\genericproject\\genericproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C947D16C-B528-4EC7-B689-280E04CF717A}|GenericProject\\GenericProject.csproj|solutionrelative:genericproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C947D16C-B528-4EC7-B689-280E04CF717A}|GenericProject\\GenericProject.csproj|c:\\users\\99450\\desktop\\genericproject\\genericproject\\wolf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C947D16C-B528-4EC7-B689-280E04CF717A}|GenericProject\\GenericProject.csproj|solutionrelative:genericproject\\wolf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C947D16C-B528-4EC7-B689-280E04CF717A}|GenericProject\\GenericProject.csproj|c:\\users\\99450\\desktop\\genericproject\\genericproject\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C947D16C-B528-4EC7-B689-280E04CF717A}|GenericProject\\GenericProject.csproj|solutionrelative:genericproject\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C947D16C-B528-4EC7-B689-280E04CF717A}|GenericProject\\GenericProject.csproj|c:\\users\\99450\\desktop\\genericproject\\genericproject\\elephant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C947D16C-B528-4EC7-B689-280E04CF717A}|GenericProject\\GenericProject.csproj|solutionrelative:genericproject\\elephant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C947D16C-B528-4EC7-B689-280E04CF717A}|GenericProject\\GenericProject.csproj|c:\\users\\99450\\desktop\\genericproject\\genericproject\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C947D16C-B528-4EC7-B689-280E04CF717A}|GenericProject\\GenericProject.csproj|solutionrelative:genericproject\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C947D16C-B528-4EC7-B689-280E04CF717A}|GenericProject\\GenericProject.csproj|c:\\users\\99450\\desktop\\genericproject\\genericproject\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C947D16C-B528-4EC7-B689-280E04CF717A}|GenericProject\\GenericProject.csproj|solutionrelative:genericproject\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C947D16C-B528-4EC7-B689-280E04CF717A}|GenericProject\\GenericProject.csproj|c:\\users\\99450\\desktop\\genericproject\\genericproject\\zoocage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C947D16C-B528-4EC7-B689-280E04CF717A}|GenericProject\\GenericProject.csproj|solutionrelative:genericproject\\zoocage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C947D16C-B528-4EC7-B689-280E04CF717A}|GenericProject\\GenericProject.csproj|c:\\users\\99450\\desktop\\genericproject\\genericproject\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C947D16C-B528-4EC7-B689-280E04CF717A}|GenericProject\\GenericProject.csproj|solutionrelative:genericproject\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ZooCage.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\GenericProject\\GenericProject\\ZooCage.cs",
+              "RelativeDocumentMoniker": "GenericProject\\ZooCage.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\GenericProject\\GenericProject\\ZooCage.cs",
+              "RelativeToolTip": "GenericProject\\ZooCage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:01:06.251Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Grass.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\GenericProject\\GenericProject\\Grass.cs",
+              "RelativeDocumentMoniker": "GenericProject\\Grass.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\GenericProject\\GenericProject\\Grass.cs",
+              "RelativeToolTip": "GenericProject\\Grass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T20:52:10.026Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Meat.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\GenericProject\\GenericProject\\Meat.cs",
+              "RelativeDocumentMoniker": "GenericProject\\Meat.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\GenericProject\\GenericProject\\Meat.cs",
+              "RelativeToolTip": "GenericProject\\Meat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T20:47:40.509Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\GenericProject\\GenericProject\\Food.cs",
+              "RelativeDocumentMoniker": "GenericProject\\Food.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\GenericProject\\GenericProject\\Food.cs",
+              "RelativeToolTip": "GenericProject\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T20:44:53.875Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Elephant.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\GenericProject\\GenericProject\\Elephant.cs",
+              "RelativeDocumentMoniker": "GenericProject\\Elephant.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\GenericProject\\GenericProject\\Elephant.cs",
+              "RelativeToolTip": "GenericProject\\Elephant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T20:42:23.125Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Wolf.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\GenericProject\\GenericProject\\Wolf.cs",
+              "RelativeDocumentMoniker": "GenericProject\\Wolf.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\GenericProject\\GenericProject\\Wolf.cs",
+              "RelativeToolTip": "GenericProject\\Wolf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T20:15:44.783Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\GenericProject\\GenericProject\\Animal.cs",
+              "RelativeDocumentMoniker": "GenericProject\\Animal.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\GenericProject\\GenericProject\\Animal.cs",
+              "RelativeToolTip": "GenericProject\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T20:10:44.364Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\GenericProject\\GenericProject\\Program.cs",
+              "RelativeDocumentMoniker": "GenericProject\\Program.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\GenericProject\\GenericProject\\Program.cs*",
+              "RelativeToolTip": "GenericProject\\Program.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T20:06:23.127Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
