@@ -1,0 +1,14 @@
+C:\Users\99450\Desktop\HospitalAppoinment\HospitalAppoinment\obj\Debug\net8.0\HospitalAppoinment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99450\Desktop\HospitalAppoinment\HospitalAppoinment\obj\Debug\net8.0\HospitalAppoinment.AssemblyInfoInputs.cache
+C:\Users\99450\Desktop\HospitalAppoinment\HospitalAppoinment\obj\Debug\net8.0\HospitalAppoinment.AssemblyInfo.cs
+C:\Users\99450\Desktop\HospitalAppoinment\HospitalAppoinment\obj\Debug\net8.0\HospitalAppoinment.csproj.CoreCompileInputs.cache
+C:\Users\99450\Desktop\HospitalAppoinment\HospitalAppoinment\bin\Debug\net8.0\HospitalAppoinment.exe
+C:\Users\99450\Desktop\HospitalAppoinment\HospitalAppoinment\bin\Debug\net8.0\HospitalAppoinment.deps.json
+C:\Users\99450\Desktop\HospitalAppoinment\HospitalAppoinment\bin\Debug\net8.0\HospitalAppoinment.runtimeconfig.json
+C:\Users\99450\Desktop\HospitalAppoinment\HospitalAppoinment\bin\Debug\net8.0\HospitalAppoinment.dll
+C:\Users\99450\Desktop\HospitalAppoinment\HospitalAppoinment\bin\Debug\net8.0\HospitalAppoinment.pdb
+C:\Users\99450\Desktop\HospitalAppoinment\HospitalAppoinment\obj\Debug\net8.0\HospitalAppoinment.dll
+C:\Users\99450\Desktop\HospitalAppoinment\HospitalAppoinment\obj\Debug\net8.0\refint\HospitalAppoinment.dll
+C:\Users\99450\Desktop\HospitalAppoinment\HospitalAppoinment\obj\Debug\net8.0\HospitalAppoinment.pdb
+C:\Users\99450\Desktop\HospitalAppoinment\HospitalAppoinment\obj\Debug\net8.0\HospitalAppoinment.genruntimeconfig.cache
+C:\Users\99450\Desktop\HospitalAppoinment\HospitalAppoinment\obj\Debug\net8.0\ref\HospitalAppoinment.dll
