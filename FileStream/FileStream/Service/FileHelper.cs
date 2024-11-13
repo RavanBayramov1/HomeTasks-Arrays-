@@ -14,7 +14,7 @@ public class FileHelper
 {
     List<string> list = [];
     string str;
-    public string Path { get; set; }
+    public string Path { get; }
     public FileHelper(string path)
     {
         Path = path;

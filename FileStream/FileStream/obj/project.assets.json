@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\99450\\Desktop\\FileStream\\FileStream\\FileStream.csproj",
+      "projectUniqueName": "C:\\Users\\99450\\Desktop\\HomeTasks-Arrays-\\FileStream\\FileStream\\FileStream.csproj",
       "projectName": "FileStream",
-      "projectPath": "C:\\Users\\99450\\Desktop\\FileStream\\FileStream\\FileStream.csproj",
+      "projectPath": "C:\\Users\\99450\\Desktop\\HomeTasks-Arrays-\\FileStream\\FileStream\\FileStream.csproj",
       "packagesPath": "C:\\Users\\99450\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\99450\\Desktop\\FileStream\\FileStream\\obj\\",
+      "outputPath": "C:\\Users\\99450\\Desktop\\HomeTasks-Arrays-\\FileStream\\FileStream\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\99450\\AppData\\Roaming\\NuGet\\NuGet.Config",

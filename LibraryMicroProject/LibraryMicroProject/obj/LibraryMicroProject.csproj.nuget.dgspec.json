@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\99450\\Desktop\\HomeTasks-Arrays-\\FileStream\\FileStream\\FileStream.csproj": {}
+    "C:\\Users\\99450\\Desktop\\LibraryMicroProject\\LibraryMicroProject\\LibraryMicroProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\99450\\Desktop\\HomeTasks-Arrays-\\FileStream\\FileStream\\FileStream.csproj": {
+    "C:\\Users\\99450\\Desktop\\LibraryMicroProject\\LibraryMicroProject\\LibraryMicroProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\99450\\Desktop\\HomeTasks-Arrays-\\FileStream\\FileStream\\FileStream.csproj",
-        "projectName": "FileStream",
-        "projectPath": "C:\\Users\\99450\\Desktop\\HomeTasks-Arrays-\\FileStream\\FileStream\\FileStream.csproj",
+        "projectUniqueName": "C:\\Users\\99450\\Desktop\\LibraryMicroProject\\LibraryMicroProject\\LibraryMicroProject.csproj",
+        "projectName": "LibraryMicroProject",
+        "projectPath": "C:\\Users\\99450\\Desktop\\LibraryMicroProject\\LibraryMicroProject\\LibraryMicroProject.csproj",
         "packagesPath": "C:\\Users\\99450\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\99450\\Desktop\\HomeTasks-Arrays-\\FileStream\\FileStream\\obj\\",
+        "outputPath": "C:\\Users\\99450\\Desktop\\LibraryMicroProject\\LibraryMicroProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\99450\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,12 +45,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\99450\\Desktop\\FileStream\\",
+  "WorkspaceRootPath": "C:\\Users\\99450\\Desktop\\HomeTasks-Arrays-\\FileStream\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66135E75-1498-4AE5-988B-13BCFC127FE0}|FileStream\\FileStream.csproj|c:\\users\\99450\\desktop\\filestream\\filestream\\service\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66135E75-1498-4AE5-988B-13BCFC127FE0}|FileStream\\FileStream.csproj|c:\\users\\99450\\desktop\\hometasks-arrays-\\filestream\\filestream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66135E75-1498-4AE5-988B-13BCFC127FE0}|FileStream\\FileStream.csproj|solutionrelative:filestream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66135E75-1498-4AE5-988B-13BCFC127FE0}|FileStream\\FileStream.csproj|c:\\users\\99450\\desktop\\hometasks-arrays-\\filestream\\filestream\\service\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66135E75-1498-4AE5-988B-13BCFC127FE0}|FileStream\\FileStream.csproj|solutionrelative:filestream\\service\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66135E75-1498-4AE5-988B-13BCFC127FE0}|FileStream\\FileStream.csproj|c:\\users\\99450\\desktop\\filestream\\filestream\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66135E75-1498-4AE5-988B-13BCFC127FE0}|FileStream\\FileStream.csproj|solutionrelative:filestream\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66135E75-1498-4AE5-988B-13BCFC127FE0}|FileStream\\FileStream.csproj|c:\\users\\99450\\desktop\\filestream\\filestream\\json\\names.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{66135E75-1498-4AE5-988B-13BCFC127FE0}|FileStream\\FileStream.csproj|c:\\users\\99450\\desktop\\hometasks-arrays-\\filestream\\filestream\\json\\names.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{66135E75-1498-4AE5-988B-13BCFC127FE0}|FileStream\\FileStream.csproj|solutionrelative:filestream\\json\\names.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66135E75-1498-4AE5-988B-13BCFC127FE0}|FileStream\\FileStream.csproj|c:\\users\\99450\\desktop\\filestream\\filestream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66135E75-1498-4AE5-988B-13BCFC127FE0}|FileStream\\FileStream.csproj|solutionrelative:filestream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66135E75-1498-4AE5-988B-13BCFC127FE0}|FileStream\\FileStream.csproj|c:\\users\\99450\\desktop\\hometasks-arrays-\\filestream\\filestream\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66135E75-1498-4AE5-988B-13BCFC127FE0}|FileStream\\FileStream.csproj|solutionrelative:filestream\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,30 +26,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\FileStream\\FileStream\\Models\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\HomeTasks-Arrays-\\FileStream\\FileStream\\Models\\Student.cs",
               "RelativeDocumentMoniker": "FileStream\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\99450\\Desktop\\FileStream\\FileStream\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\HomeTasks-Arrays-\\FileStream\\FileStream\\Models\\Student.cs",
               "RelativeToolTip": "FileStream\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T14:50:25.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T14:50:25.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FileHelper.cs",
-              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\FileStream\\FileStream\\Service\\FileHelper.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\HomeTasks-Arrays-\\FileStream\\FileStream\\Service\\FileHelper.cs",
               "RelativeDocumentMoniker": "FileStream\\Service\\FileHelper.cs",
-              "ToolTip": "C:\\Users\\99450\\Desktop\\FileStream\\FileStream\\Service\\FileHelper.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\HomeTasks-Arrays-\\FileStream\\FileStream\\Service\\FileHelper.cs",
               "RelativeToolTip": "FileStream\\Service\\FileHelper.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAYwBMAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwBcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-03T14:40:08.912Z",
               "EditorCaption": ""
@@ -58,9 +57,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "names.json",
-              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\FileStream\\FileStream\\Json\\names.json",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\HomeTasks-Arrays-\\FileStream\\FileStream\\Json\\names.json",
               "RelativeDocumentMoniker": "FileStream\\Json\\names.json",
-              "ToolTip": "C:\\Users\\99450\\Desktop\\FileStream\\FileStream\\Json\\names.json",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\HomeTasks-Arrays-\\FileStream\\FileStream\\Json\\names.json",
               "RelativeToolTip": "FileStream\\Json\\names.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -69,11 +68,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\FileStream\\FileStream\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\HomeTasks-Arrays-\\FileStream\\FileStream\\Program.cs",
               "RelativeDocumentMoniker": "FileStream\\Program.cs",
-              "ToolTip": "C:\\Users\\99450\\Desktop\\FileStream\\FileStream\\Program.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\HomeTasks-Arrays-\\FileStream\\FileStream\\Program.cs",
               "RelativeToolTip": "FileStream\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
