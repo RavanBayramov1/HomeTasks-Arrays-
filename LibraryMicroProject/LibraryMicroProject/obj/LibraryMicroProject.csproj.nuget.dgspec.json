@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\99450\\Desktop\\LibraryMicroProject\\LibraryMicroProject\\LibraryMicroProject.csproj": {}
+    "C:\\Users\\99450\\Desktop\\HomeTasks-Arrays-\\LibraryMicroProject\\LibraryMicroProject\\LibraryMicroProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\99450\\Desktop\\LibraryMicroProject\\LibraryMicroProject\\LibraryMicroProject.csproj": {
+    "C:\\Users\\99450\\Desktop\\HomeTasks-Arrays-\\LibraryMicroProject\\LibraryMicroProject\\LibraryMicroProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\99450\\Desktop\\LibraryMicroProject\\LibraryMicroProject\\LibraryMicroProject.csproj",
+        "projectUniqueName": "C:\\Users\\99450\\Desktop\\HomeTasks-Arrays-\\LibraryMicroProject\\LibraryMicroProject\\LibraryMicroProject.csproj",
         "projectName": "LibraryMicroProject",
-        "projectPath": "C:\\Users\\99450\\Desktop\\LibraryMicroProject\\LibraryMicroProject\\LibraryMicroProject.csproj",
+        "projectPath": "C:\\Users\\99450\\Desktop\\HomeTasks-Arrays-\\LibraryMicroProject\\LibraryMicroProject\\LibraryMicroProject.csproj",
         "packagesPath": "C:\\Users\\99450\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\99450\\Desktop\\LibraryMicroProject\\LibraryMicroProject\\obj\\",
+        "outputPath": "C:\\Users\\99450\\Desktop\\HomeTasks-Arrays-\\LibraryMicroProject\\LibraryMicroProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\99450\\AppData\\Roaming\\NuGet\\NuGet.Config",

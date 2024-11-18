@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LibraryMicroProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cbb4e348c17b6dcff0c0ca266dd3cc446308c72")]
 [assembly: System.Reflection.AssemblyProductAttribute("LibraryMicroProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LibraryMicroProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
