@@ -1,0 +1,23 @@
+﻿@using FirstWebApp.Models
+@model List<User>
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div class="container">
+        <a class ="btn btn-primary my-2" href ="/User/Create">Create</a>
+        <ul class=" list-group">
+            @foreach(var item in Model)
+            {
+                <li class=" list-group-item">@item.Title - @item.Deadline?.ToString("dd MMMM yyyy - HH:mm:ss",new CultureInfo("AZ"))
+
+                </li>   
+            }
+        </ul>
+    </div>
+</body>
+</html>
